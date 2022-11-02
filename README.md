@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Antonio Gregorio Bautista</h1>
 <h3 align="center">A passionate frontend developer from MX</h3>
 
-- 🔭 I'm currently student onn **LaunchX**
+- 🔭 I'm currently student on **LaunchX**
 
 - 🌱 I’m currently learning **React**
 
